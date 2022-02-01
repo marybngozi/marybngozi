@@ -6,6 +6,8 @@
 
 ### Full-Stack Engineer 👩‍💻
 
+🌐 <a href="https://marybngozi.herokuapp.com/" target="_blank"><b>My Portfolio</b></a>
+
 #### Software Engineer with 2+ years of professional experience, organised and good team player with strong communication and analytical abilities. Love improving skills through hands-on learning and work. I'm passionate about building software solutions
 
 - 🧍‍ Personal Tech: Good Communication, Great analytical skills, Fast learner, Great team player, Good leadership and management skills
