@@ -6,6 +6,7 @@
 
 ### Full-Stack Engineer 👩‍💻
 
+🖥️ <a href="https://www.marybngozi.online" target="_blank"><b>GitLab</b></a>
 🌐 <a href="https://www.marybngozi.online" target="_blank"><b>My Portfolio</b></a>
 
 #### Software Engineer with 3+ years of professional experience, organised and good team player with strong communication and analytical abilities. Love improving skills through hands-on learning and work. I'm passionate about building software solutions
