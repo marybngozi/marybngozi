@@ -4,13 +4,12 @@
 
 ## Hi there 👋
 
-### Full-Stack Engineer 👩‍💻
+### Full-Stack Software Engineer 👩‍💻
 
 - 🖥️ <a href="https://gitlab.com/marybngozi" target="_blank"><b>GitLab</b></a>
-- 🌐 <a href="https://www.marybngozi.online" target="_blank"><b>My Portfolio</b></a>
 
 #### Software Engineer with 3+ years of professional experience, organised and good team player with strong communication and analytical abilities. Love improving skills through hands-on learning and work. I'm passionate about building software solutions
 
 - 🧍‍ Personal Tools: Good Communication, Great analytical skills, Fast learner, Great team player, Good leadership and management skills
-- 🖥️ Tech Tools: Javascript, Nodejs, ExpressJs, VueJs, NuxtJs, ReactJs, NextJs, Python, PHP, HTML, CSS, TailwindCSS, Bootstrap CSS, Wordpress, Jest, MongoDB, MySQL, CodeIgniter PHP, Larvel PHP, GIS, AWS, Docker, Git, Data Analytics ...
-- ⚡ Hobbies: cycling, reading, movies, learning new things
+- 🖥️ Tech Tools: Javascript, Nodejs, ExpressJs, VueJs, NuxtJs, ReactJs, NextJs, Python, PHP, HTML, CSS, TailwindCSS, Bootstrap CSS, Wordpress, Jest, MongoDB, MySQL, CodeIgniter PHP, Larvel PHP, GIS, AWS, Docker, Git, Data Analytics, Java, C, C++, C# ...
+- ⚡ Hobbies: cycling, reading, movies, learning new things, travelling
